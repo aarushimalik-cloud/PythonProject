@@ -1,0 +1,10 @@
+first = int(input("Enter first number: "))
+second = int(input("Enter second number: "))
+Addition = first + second
+Subtraction = first - second
+Multiplication = first * second
+Division = first / second
+print("Addition = ", Addition )
+print("Subtraction = ", Subtraction )
+print("Multiplication = ", Multiplication )
+print("Division = ", Division )
